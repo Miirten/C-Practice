@@ -1,0 +1,15 @@
+/Users/mathewmansfield/Desktop/Coding/Bridgerland/Database/C-Practice/bin/Debug/net10.0/C# Practice
+/Users/mathewmansfield/Desktop/Coding/Bridgerland/Database/C-Practice/bin/Debug/net10.0/C# Practice.deps.json
+/Users/mathewmansfield/Desktop/Coding/Bridgerland/Database/C-Practice/bin/Debug/net10.0/C# Practice.runtimeconfig.json
+/Users/mathewmansfield/Desktop/Coding/Bridgerland/Database/C-Practice/bin/Debug/net10.0/C# Practice.dll
+/Users/mathewmansfield/Desktop/Coding/Bridgerland/Database/C-Practice/bin/Debug/net10.0/C# Practice.pdb
+/Users/mathewmansfield/Desktop/Coding/Bridgerland/Database/C-Practice/obj/Debug/net10.0/C# Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathewmansfield/Desktop/Coding/Bridgerland/Database/C-Practice/obj/Debug/net10.0/C# Practice.AssemblyInfoInputs.cache
+/Users/mathewmansfield/Desktop/Coding/Bridgerland/Database/C-Practice/obj/Debug/net10.0/C# Practice.AssemblyInfo.cs
+/Users/mathewmansfield/Desktop/Coding/Bridgerland/Database/C-Practice/obj/Debug/net10.0/C# Practice.csproj.CoreCompileInputs.cache
+/Users/mathewmansfield/Desktop/Coding/Bridgerland/Database/C-Practice/obj/Debug/net10.0/C# Practice.sourcelink.json
+/Users/mathewmansfield/Desktop/Coding/Bridgerland/Database/C-Practice/obj/Debug/net10.0/C# Practice.dll
+/Users/mathewmansfield/Desktop/Coding/Bridgerland/Database/C-Practice/obj/Debug/net10.0/refint/C# Practice.dll
+/Users/mathewmansfield/Desktop/Coding/Bridgerland/Database/C-Practice/obj/Debug/net10.0/C# Practice.pdb
+/Users/mathewmansfield/Desktop/Coding/Bridgerland/Database/C-Practice/obj/Debug/net10.0/C# Practice.genruntimeconfig.cache
+/Users/mathewmansfield/Desktop/Coding/Bridgerland/Database/C-Practice/obj/Debug/net10.0/ref/C# Practice.dll
